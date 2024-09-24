@@ -1,0 +1,18 @@
+2024-09-24 13:49 - INFO - Connected to SQLite database: car_data.db
+2024-09-24 13:49 - INFO - Table 'cars' created or already exists.
+2024-09-24 13:49 - INFO - Inserted 1234 rows into table 'cars'.
+2024-09-24 14:09 - INFO - Successfully reading data from car-data.csv
+2024-09-24 14:09 - INFO - Successfully processed data.
+2024-09-24 14:09 - INFO - Connected to SQLite database: car_data.db
+2024-09-24 14:09 - INFO - Table 'cars' created or already exists.
+2024-09-24 14:09 - INFO - Inserted 1234 rows into table 'cars'.
+2024-09-24 14:10 - INFO - Successfully reading data from car-data.csv
+2024-09-24 14:10 - INFO - Successfully processed data.
+2024-09-24 14:10 - INFO - Connected to SQLite database: car_data.db
+2024-09-24 14:10 - INFO - Table 'cars' created or already exists.
+2024-09-24 14:10 - INFO - Inserted 1234 rows into table 'cars'.
+2024-09-24 16:25 - INFO - Successfully reading data from car-data.csv
+2024-09-24 16:25 - INFO - Successfully processed data.
+2024-09-24 16:25 - INFO - Connected to SQLite database: car_data.db
+2024-09-24 16:25 - INFO - Table 'cars' created or already exists.
+2024-09-24 16:25 - INFO - Inserted 1234 rows into table 'cars'.
